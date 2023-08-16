@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: kubegourav/test:latest
+      - image: kubegourav/test:3
         name: flaskdemo
         resources: {}
 status: {}
